@@ -1,0 +1,913 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:loc="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+<title>
+	MEDdaily &mdash; новости медицины и медицинских технологий. Комментарии специалистов. Архив материалов.  </title>
+<meta name="description" content="Портал о новостях медицины, здоровья и медицинских технологий. Архив материалов. подписка на новости. Обратная связь с редакцией. " />
+<meta name="Keywords" content="новости, медицина, медицинский, здоровье, здравоохранение, врач, доктор, клиника, больница, профилактика, лечение, болезнь, заболевание, лекарство, препарат, medicine." />
+
+
+<meta property="og:title" content="MEDdaily &mdash; новости медицины и медицинских технологий. Комментарии специалистов. Архив материалов." />
+<meta property="og:description" content="Портал о новостях медицины, здоровья и медицинских технологий. Архив материалов. подписка на новости. Обратная связь с редакцией. " />
+<meta property="og:image" content="http://static.meddaily.ru/img/logo100x50med.gif" />
+ 
+    <link rel="shortcut icon" href="http://static.meddaily.ru/img/med.ico" />
+    <link rel="stylesheet" type="text/css" href="http://static.meddaily.ru/css/main.css" /> 
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss" />
+	  <style type="text/css">
+    	 body {background-image: url('http://static.meddaily.ru/img/head_bg.gif'); background-repeat: repeat-x;}
+
+.adfox_reklama {overflow: hidden}
+
+
+/* 
+градиент только на ширину колонтитула
+
+table.structure-main#header {background-image: url('http://static.meddaily.ru/img/head_bg.gif'); background-repeat: repeat-x;}
+*/
+
+.doctor_block .topic_head  {background-image: url('http://static.meddaily.ru/img/cross_small.gif')}
+.doctor_block .topic_body {background-image: url('http://static.meddaily.ru/img/cross_big.gif')}
+
+.lhats .topic_head  {background-image: url('http://static.meddaily.ru/img/cross_green.gif')}
+
+.spiegel_block .topic_head, .talk_block .topic_head  {background-image: url('http://static.meddaily.ru/img/cross_spiegel.gif')}
+
+.news_block .topic_head  {background-image: url('http://static.meddaily.ru/img/cross_green.gif')}
+    </style>
+	
+	
+		<link rel="stylesheet" type="text/css" media="all" href="http://static.meddaily.ru/css/calendar.css" title="calendar" />
+
+	  <!-- main calendar program -->
+  	<script type="text/javascript" src="http://static.meddaily.ru/js/calendar.js"></script>
+
+  	<!-- language for the calendar -->
+  	<script type="text/javascript" src="http://static.meddaily.ru/js/lang/calendar-ru_win_.js"></script>
+
+  	<!-- the following script defines the Calendar.setup helper function, which makes
+       adding a calendar a matter of 1 or 2 lines of code. -->
+  	<script type="text/javascript" src="http://static.meddaily.ru/js/calendar-setup.js"></script>
+
+
+<!----cs1--->	
+
+
+
+
+
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/newsrucom-meddailyru/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script> 	
+<!— gogl_detector —>
+<script src="http://static.meddaily.ru/js/gogl_detector_medd.js"></script> 
+
+
+</head>
+
+<body>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter40009770 = new Ya.Metrika({
+                    id:40009770,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/40009770" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- GA counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86394340-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- /GA counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1981515", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=1981515;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 2412736
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=2412736" alt="Top-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+
+
+<!--AdFox START-->
+<!--montemedia-->
+<!--Площадка: meddaily.ru / fullscreen / fullscreen-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: fullscreen-->
+<div id="adfox_159888451625196845"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 242477,
+        containerId: 'adfox_159888451625196845',
+        params: {
+            p1: 'cmaxz',
+            p2: 'gkeu'
+        }
+    });
+</script>
+
+<table style="width: 100%">
+<tr>
+<td align="center">
+
+		<table style="width: 1000px">
+		<tr>
+			<td>
+
+				<!-- шапка -->
+<!----cs1--->	
+<div style="overflow:hidden">
+<div align="center" style="height: 120px;">
+<!--AdFox START-->
+<!--montemedia-->
+<!--Площадка: meddaily.ru / Растяжки / растяжка верхняя-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Перетяжка 100%-->
+<div id="adfox_155845359154347630"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 242477,
+        containerId: 'adfox_155845359154347630',
+        params: {
+            p1: 'cerri',
+            p2: 'y'
+        }
+    });
+</script>
+</div>
+</div>
+
+<table id="header" class="structure-main">
+      <tr>
+        <td>
+          <table class="structure-mainleft">
+            <tr>
+              <td>
+                <table class="structure-left">
+                  <tr>
+                    <td>
+                      <a href="/">
+                        <img width="300" height="118" src="http://static.meddaily.ru/img/med_day_logo.gif" alt="Medicine Daily" style="display: block;" />
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td align="right">
+          <table class="structure-right" id="inheader">
+            <tr>
+              <td>
+              	<table style="width: 500px">
+                <tr>
+               	                                	
+        								<td style="width: 50px; vertical-align: top"><img width="50" height="108" src="http://static.meddaily.ru/img/cross.gif" alt="World" style="display: block;"/></td>
+												<td style="width: 5px"></td> 	
+
+        								<td style="width: 190px">
+        										<div style="padding: 14px 8px 5px 8px; text-align: left">
+        										<a class="head_banner_link" href="/article/28aug2020/spaearttm">Поддержка супруга поможет быстрее скинуть личный вес, показал эксперимент</a>
+        									</div>
+        								</td>
+        								<td style="width: 9px"></td>
+
+        								<!--td style="width: 5px"></td-->
+								                                	
+        								<td style="width: 50px; vertical-align: top"><img width="50" height="108" src="http://static.meddaily.ru/img/cross.gif" alt="World" style="display: block;"/></td>
+												<td style="width: 5px"></td> 	
+
+        								<td style="width: 190px">
+        										<div style="padding: 14px 8px 5px 8px; text-align: left">
+        										<a class="head_banner_link" href="/article/28aug2020/vverhpotrybe">Ванная комната признана одним из самых опасных мест в доме</a>
+        									</div>
+        								</td>
+        								
+
+        								<!--td style="width: 5px"></td-->
+								
+								</tr>
+								</table>
+                  
+
+              </td>
+              <td></td>
+            </tr>
+          </table>
+        </td>        
+      </tr>     
+    </table>
+    <!-- полоска под логотипом-->
+    <table class="structure-main">
+      <tr>
+        <td>
+					<div class="head_topmenu_container" id="top_date">
+						<div class="head_topmenu_item" style="margin-right: 4px;text-transform: uppercase;">
+							7 сентября 2020
+						</div>
+					</div>
+					<div class="head_topmenu_container" id="top_themes">
+						<div class="head_topmenu_item" style="margin: 0px 4px">
+									<select style="width: 208px" onchange="var a = this.value; if( a != 'all') document.location = '/rubric/'+ a;" >
+									<option value="all">Выберите тему</option>
+									
+									<option  value="686">Акция</option>
+									
+									<option  value="682">В мире</option>
+									
+									<option  value="683">Вакцины</option>
+									
+									<option  value="694">Генетика</option>
+									
+									<option  value="695">Государство и медицина</option>
+									
+									<option  value="675">Дети</option>
+									
+									<option  value="684">Запрет</option>
+									
+									<option  value="688">Изобретение</option>
+									
+									<option  value="687">Исследование</option>
+									
+									<option  value="842">Клиники</option>
+									
+									<option  value="841">КОММЕНТАРИИ ВРАЧЕЙ</option>
+									
+									<option  value="875">Красота и здоровье</option>
+									
+									<option  value="789">Курение</option>
+									
+									<option  value="678">Нетрадиционная медицина</option>
+									
+									<option  value="680">Опрос</option>
+									
+									<option  value="685">Памятная дата</option>
+									
+									<option  value="674">Питание</option>
+									
+									<option  value="677">Психология</option>
+									
+									<option  value="690">Редкие заболевания</option>
+									
+									<option  value="689">Рекорд</option>
+									
+									<option  value="962">Соединение</option>
+									
+									<option  value="691">Технологии</option>
+									
+									<option  value="693">Уникальный случай</option>
+									
+									<option  value="681">Фармакология</option>
+									
+									<option  value="671">Энергетики</option>
+									
+									<option  value="673">Эпидемия</option>
+									
+									</select>
+
+						</div>
+					</div>
+					<div class="head_topmenu_container" id="top_search">				
+						<div class="head_topmenu_item" style="margin: 0px 8px 0px 4px">
+									<form action="/search" method="get" style="margin: 0px; padding: 0px;">
+												<div><input class="searchtext" type="text" name="query" value="" style="margin: 0px; padding: 0px" />&nbsp;<input class="searchbutton" style="font: 13px arial" type="submit" value="ИСКАТЬ"/></div>
+									</form>		
+						</div>
+					</div>
+					<div class="head_topmenu_container" id="top_archive">
+					
+					
+						<div style="float: right; font-weight: bold; font-size: 14px; padding: 0px 8px" class="head_topmenu_item">18+</div>
+						<div style="float: right; width: 7px; background-color: #E8E8DF" class="head_topmenu_item">&nbsp;</div>
+					
+					
+						<div class="head_topmenu_item">	<div id="show_f">
+	
+		<form action="#" method="get" style="display: none;">
+			<input type="hidden" name="f_date_f" id="f_date_f" />
+		</form>
+			
+
+					АРХИВ
+
+	</div>
+	
+	
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+	    function selectdate(calendar){
+		var month=new Array(12)
+		month[0]="jan"
+		month[1]="feb"
+		month[2]="mar"
+		month[3]="apr"
+		month[4]="may"
+		month[5]="jun"
+		month[6]="jul"
+		month[7]="aug"
+		month[8]="sep"
+		month[9]="oct"
+		month[10]="nov"
+		month[11]="dec"
+	    if (calendar.dateClicked) {
+		var y = calendar.date.getFullYear();
+	     	var m = calendar.date.getMonth();     // integer, 0..11
+	     	var d = calendar.date.getDate();      // integer, 1..31
+		if (d < 10) { d = "0" + d};
+	
+
+		window.location = '/all/' + d + month[m] + y;
+	    }
+	   }
+
+
+	    Calendar.setup({
+	        inputField     :    "f_date_f",     // id of the input field
+	        ifFormat       :    "%Y/%d/%m",     // format of the input field (even if hidden, this format will be honored)
+	      	displayArea    :    "show_f",       // ID of the span where the date is to be shown
+	        daFormat       :    "%A, %B %d, %Y",// format of the displayed date
+	        align          :    "bL",           // alignment (defaults to "Bl")
+		onSelect       :    selectdate,
+		weekNumbers    :    0
+	
+	    });
+//--><!]]>
+	</script>
+
+</div>
+					</div>
+				</td>
+			</tr>
+</table>
+
+<div style="clear: both; height: 10px"></div>
+				<table id="main" class="structure-main">
+      <tr>
+        <td>
+          <table class="structure-mainleft">
+            <tr>
+              <td>
+                <table class="structure-left">
+                  <tr>
+                    <td>
+											<div class="structure-left">
+	<div class="doctor_block">
+		<div class="topic_head"><a href="/doctor">КОММЕНТАРИЙ ВРАЧА</a></div>
+		<div class="topic_body">
+			
+			<div class="topic_title"><a href="/article/25Aug2020/antralnij">Запущенный гастрит может привести к развитию рака</a></div>
+			<div class="topic_lead"><a href="/article/25Aug2020/antralnij">Чем дольше существует антральный гастрит, тем чаще происходит гибель клеток слизистой оболочки желудка и повышается риск перерождения клеток.</a></div>
+			<div class="topic_name" id="left"><a href="/doctor/470">Евгений Сас </a></div>
+			
+		</div>
+		<div class="bottomline"></div>
+	</div>
+	
+	<div style="height: 8px; font-size: 0ex"></div>
+	<table width="246" border="0" cellspacing="0" cellpadding="0" bgcolor="#FDFDFD">
+<tr><td height="5"></td></tr>
+<tr>
+<td width="40" align="center"><a href="https://twitter.com/MeddailyRu" target="_blank"><img src="https://prm.newsru.com/gif/0_22_2208_1429543743.gif" alt="" width="30" height="30" hspace="5" vspace="3" border="0"></a></td>
+<td width="200" align="left">&nbsp;<a href="https://twitter.com/MeddailyRu" target="_blank" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #1D8959; font-weight: normal;">Twitter</a></td>
+</tr>
+<tr>
+<td width="40" align="center"><a href="https://www.facebook.com/meddaily" target="_blank"><img src="https://prm.newsru.com/gif/0_22_2207_1429543719.gif" alt="" width="30" height="30" hspace="5" vspace="3" border="0"></a></td>
+<td width="200" align="left">&nbsp;<a href="https://www.facebook.com/meddaily" target="_blank" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #1D8959; font-weight: normal;">Facebook</a></td>
+</tr>
+<tr>
+<td width="40" align="center"><a href="https://vk.com/meddailynews" target="_blank"><img src="https://prm.newsru.com/gif/0_22_2209_1429543778.gif" alt="" width="30" height="30" hspace="5" vspace="3" border="0"></a></td>
+<td width="200" align="left">&nbsp;<a href="https://vk.com/meddailynews" target="_blank" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #1D8959; font-weight: normal;">ВКонтакте</a></td>
+</tr>
+<tr><td height="3"></td></tr>
+</table>
+
+<div align="center" style="background-color: #D9D9CC; padding-top: 5px;">
+
+<!--AdFox START-->
+<!--montemedia-->
+<!--Площадка: meddaily.ru / объект / объект слева-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: объект-->
+<div id="adfox_155846687923491498"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 242477,
+        containerId: 'adfox_155846687923491498',
+        params: {
+            p1: 'cerrh',
+            p2: 'gkkj'
+        }
+    });
+</script>
+</div>
+
+<div align="center" style="background-color: #D9D9CC; padding-top: 5px;">
+<!--AdFox START-->
+<!--montemedia-->
+<!--Площадка: meddaily.ru / 240х400 / 240х400 слева-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240x400--new-->
+<div id="adfox_15584534788324845"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 242477,
+        containerId: 'adfox_15584534788324845',
+        params: {
+            p1: 'cerrf',
+            p2: 'gkel'
+        }
+    });
+</script>
+</div>
+<div align="center" style="background-color: #D9D9CC; padding-top: 10px;"></div> 
+	
+	<div style="height: 4px; font-size: 0ex"></div>	
+		<div class="talk_block">
+		<div class="topic_head"><a href="/letter/">ПОГОВОРИМ ОБ ЭТОМ</a></div>
+		<div class="topic_body">
+			
+			<div class="topic_title"><a href="http://meddaily.ru/letter/11Aug2020/orttopedpodu6">Ортопедическая подушка "убила" мою шею</a></div>
+			
+			<div class="comment_count"><a href="http://meddaily.ru/letter/11Aug2020/orttopedpodu6">6 комментарий</a></div>
+			
+			
+		</div>
+		<div class="bottomline"></div>
+	</div>
+	
+	
+	
+	
+	<div style="height: 4px; font-size: 0ex"></div>
+	<div class="lhats">
+		<div class="topic_head">ИЗБРАННОЕ</div>
+		
+		
+		
+		<div class="topic_body">	
+			<div><a href="/article/28aug2020/rrsaaprody"><img class="topic_img" width="198" height="148" border="0" src="http://images.meddaily.ru/images/big/101_82_1018234_1599430374.jpg" alt="Эксперт по органическому земледелию Яков Любоведский призывает с осторожностью выбирать растительные продукты. Дело в том, что отдельные растения особенно активно накапливают токсические вещества, включая пестициды. "/></a></div>
+			<div class="topic_title"><a href="/article/28aug2020/rrsaaprody">Растительные продукты скрывают в себе опасные соединения</a></div>
+		
+		</div>
+		<div class="topic_delimeter"></div>
+		
+		
+		
+		<div class="topic_body">	
+			<div><a href="/article/27aug2020/nespidnemdolgo"><img class="topic_img" width="198" height="148" border="0" src="http://images.meddaily.ru/images/big/101_82_1018226_1599430374.jpg" alt="По сравнению с полным отсутствием дневного сна, регулярный сон в дневное время более часа, повышает на 30% риск преждевременной смерти по любым причинам и на 34% риск развития сердечно-сосудистых заболеваний. "/></a></div>
+			<div class="topic_title"><a href="/article/27aug2020/nespidnemdolgo">Медики запретили долго спать в дневное время</a></div>
+		
+		</div>
+		<div class="topic_delimeter"></div>
+		
+		
+		
+		<div class="topic_body">	
+			<div><a href="/article/20aug2020/conytrtnerab"><img class="topic_img" width="198" height="148" border="0" src="http://images.meddaily.ru/images/big/101_80_1018046_1599430374.jpg" alt="Женщины, одновременно принимающие антибиотики и контрацептивы, могут забеременеть. Ученые советуют на время использования антибиотиков обратиться к дополнительным методам защиты вроде презервативов."/></a></div>
+			<div class="topic_title"><a href="/article/20aug2020/conytrtnerab">Эксперты не рекомендуют комбинировать антибиотики с рядом средств</a></div>
+		
+		</div>
+		<div class="topic_delimeter"></div>
+		
+		
+		
+		<div class="topic_body">	
+			<div><a href="/article/14aug2020/ttomaneodnozn"><img class="topic_img" width="198" height="148" border="0" src="http://images.meddaily.ru/images/big/101_79_1017934_1599430374.jpg" alt="Врач-диетолог Наталья Круглова предупреждает: томаты могут навредить некоторым людям. Они противопоказаны при гастрите и язвенных заболеваниях вследствие большого количества кислот. Стоит их исключить и при аллергии. "/></a></div>
+			<div class="topic_title"><a href="/article/14aug2020/ttomaneodnozn">Томаты признаны диетологами одним из самых неоднозначных продуктов</a></div>
+		
+		</div>
+		
+		
+		<div class="bottomline"></div>
+			
+ 
+
+	</div>
+</div>
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+             <td>
+             <div class="structure-index">
+               	<!-- Шпигеля -->
+	<div class="spiegel_block">
+		<div class="topic_head"><a href="/all">НОВОСТИ</a></div>
+		
+			<div class="topic_body">
+				<div class="topic_img" style="width:198px;height:148px;">
+					<a href="/article/04sep2020/krasss4vlss">
+					<img width="198" height="148" src="http://images.meddaily.ru/images/first_shpigel/0_0_1_1599430374.jpg" alt="Эксперты попытались установить, вызывают ли краски для волос рак" style="display: block;" /> 
+					</a>
+				</div>
+				
+				<div class="topic_title"><a href="/article/04sep2020/krasss4vlss">Эксперты попытались установить, вызывают ли краски для волос рак</a></div>
+				<div class="topic_lead"><a href="/article/04sep2020/krasss4vlss">Ученые провели масштабное исследование, призванное сказать, повышен ли риск рака у людей, регулярно окрашивающих волосы, ведь в краске для волос содержатся соединения, способные вызывать рак мочевого пузыря и груди.</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+				<div class="topic_img" style="width:198px;height:148px;">
+					<a href="/article/04sep2020/froomstartt">
+					<img width="198" height="148" src="http://images.meddaily.ru/images/second_shpigel/0_0_1_1599430374.jpg" alt="Неврологи показали пользу изучения иностранных языков с юных лет" style="display: block;" /> 
+					</a>
+				</div>
+				
+				<div class="topic_title"><a href="/article/04sep2020/froomstartt">Неврологи показали пользу изучения иностранных языков с юных лет</a></div>
+				<div class="topic_lead"><a href="/article/04sep2020/froomstartt">Дети и подростки, которые владеют более чем одним языком, во взрослом возрасте имеют больше серого вещества, установили Университет Ридинга и Джорджтаунский университет.</a></div>
+			</div>
+			
+		
+		<div class="bottomline"></div>
+	</div>
+
+
+
+
+
+
+	
+<!-- Новости -->
+	<div class="news_block">
+		<div class="bottomline"></div>
+		
+			<!-- Новости фиксированные -->		
+				
+<!-- end Новости фиксированные -->	
+		
+		
+		
+		
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/04sep2020/namozgmollo">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311486_1599430374.jpg" alt="Исследователи заявляют об исключительном вреде марихуаны" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/04sep2020/namozgmollo">Исследователи заявляют об исключительном вреде марихуаны</a></div>
+				<div class="topic_lead" ><a href="/article/04sep2020/namozgmollo">Университет Колорадо провел исследовал, как марихуана влияет на умственные способности. Было доказано: умеренное, но регулярное употребление этого наркотика ослабляет умственные способности у молодых людей. 
+</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/04sep2020/supertoksichen">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311482_1599430374.jpg" alt="Медики установили, насколько электронные сигареты вредны для организма" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/04sep2020/supertoksichen">Медики установили, насколько электронные сигареты вредны для организма</a></div>
+				<div class="topic_lead" ><a href="/article/04sep2020/supertoksichen">Оказалось, химические вещества, производимые электронными сигаретами, смешиваются в легких людей или в самом вейпе, образуют совершенно новые комбинации, токсичные для живых клеток.</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/04sep2020/googminoboro">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311478_1599430374.jpg" alt="Американские военные и Google готовятся совершить прорыв в медицине" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/04sep2020/googminoboro">Американские военные и Google готовятся совершить прорыв в медицине</a></div>
+				<div class="topic_lead" ><a href="/article/04sep2020/googminoboro">Их проект, получивший название Predictive Health, поможет врачам найти опухолевые клетки под микроскопом, чтобы впоследствии получить информацию об их генетическом профиле и структуре.</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/04sep2020/smoc1diaa">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311466_1599430374.jpg" alt="Создано новое революционное лекарство против диабета 2-го типа" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/04sep2020/smoc1diaa">Создано новое революционное лекарство против диабета 2-го типа</a></div>
+				<div class="topic_lead" ><a href="/article/04sep2020/smoc1diaa">Университет Мельбурна понял, что белок печени SMOC1 может снизить уровень сахара в крови. И немного измененная форма белка способна, по словам ученых, вылечить диабет 2-го типа. </a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/04sep2020/ccovvvidseroid">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311462_1599430374.jpg" alt="Известные лекарственные препараты помогут снизить смертность при COVID-19" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/04sep2020/ccovvvidseroid">Известные лекарственные препараты помогут снизить смертность при COVID-19</a></div>
+				<div class="topic_lead" ><a href="/article/04sep2020/ccovvvidseroid">Противовоспалительные стероидные средства могут спасти жизнь пациентов, находящихся в критическом состоянии. Это 8 спасенных жизней на каждые 100 человек. Ученые доказали эффективность дексаметазона и гидрокортизона.
+</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/03sep2020/maxppmank">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311458_1599430374.jpg" alt="Исследователи узнали, что может продлить жизнь" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/03sep2020/maxppmank">Исследователи узнали, что может продлить жизнь</a></div>
+				<div class="topic_lead" ><a href="/article/03sep2020/maxppmank">Помимо статистики средней продолжительности жизни, ученых интересовал принятый в разных странах уровень щедрости (определялось как привычный сценарий распределения финансовых ресурсов).
+</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/03sep2020/4rraccyltra">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311454_1599430374.jpg" alt="За преждевременным старением тела может стоять рацион человека" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/03sep2020/4rraccyltra">За преждевременным старением тела может стоять рацион человека</a></div>
+				<div class="topic_lead" ><a href="/article/03sep2020/4rraccyltra">Ученые Университета Наварры обвиняют ультраобработанные продукты питания в провоцировании преждевременного клеточного старения. Вывод был сделан после анализа ДНК и состояния здоровья 886 человек 51-91 года. </a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/03sep2020/bbadgag">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311450_1599430374.jpg" alt="Пересадка каловых масс спасает от алкоголизма, показал эксперимент" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/03sep2020/bbadgag">Пересадка каловых масс спасает от алкоголизма, показал эксперимент</a></div>
+				<div class="topic_lead" ><a href="/article/03sep2020/bbadgag">Джасмохан Баджадж, гастроэнтеролог, гепатолог из Университет Содружества Вирджинии, протестировал нестандартную терапию алкогольной зависимости. Он пересадил вместе со стулом бактерии здорового добровольца.</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/03sep2020/insitytbaka">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311446_1599430374.jpg" alt="Особая добавка сделает старость более активной, обещают исследователи" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/03sep2020/insitytbaka">Особая добавка сделает старость более активной, обещают исследователи</a></div>
+				<div class="topic_lead" ><a href="/article/03sep2020/insitytbaka">Альфа-кетоглутаровая кислота помогает избежать возрастных заболеваний и тяжелого протекания старости. Был успешно проведен эксперимент с грызунами, который показал способность соединения продлевать активную жизни. 
+</a></div>
+			</div>
+			<div class="topic_delimeter"></div>
+		
+			<div class="topic_body">
+			
+		
+			
+			
+				<div class="topic_img" style="">
+				<a href="/article/03sep2020/proottotkoza">
+					<img width="123" height="93" src="http://images.meddaily.ru/images/small/31_14_311442_1599430374.jpg" alt="Инженеры представили уникальный аналог настоящей кожи" style="display: block;" />
+					</a>
+				</div>
+				
+				
+				<div class="topic_title"><a href="/article/03sep2020/proottotkoza">Инженеры представили уникальный аналог настоящей кожи</a></div>
+				<div class="topic_lead" ><a href="/article/03sep2020/proottotkoza">Создан прототип искусственной кожи, чувствительной к боли, температурным изменениям и давлению. Система реагирует по тем же принципам и с той же скоростью, что и настоящая кожа. </a></div>
+			</div>
+			
+		
+		<div class="topic_head"><a href="/all">ВСЕ НОВОСТИ</a></div>
+	</div>
+             </div>  	
+             </td>
+            </tr>
+          </table>
+        </td>
+        <td align="right">
+          <table class="structure-right">
+            <tr>
+              <td>
+              	<table style="width: 240px">
+                <tr><td>
+               		<div class="structure-right">
+
+  <div style="padding: 0px 0px; _margin-bottom: 10px; _background-color: #BAB89A">
+  
+     <!-- f083a1ae63d124560914002780206175 -->
+   <div align="center" style="width: 240px;">
+<!--AdFox START-->
+<!--montemedia-->
+<!--Площадка: meddaily.ru / 240х400 / 240х400 справа-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240x400--new-->
+<div id="adfox_156959025763889383"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 242477,
+        containerId: 'adfox_156959025763889383',
+        params: {
+            p1: 'cerrg',
+            p2: 'gkel'
+        }
+    });
+</script>
+</div>
+  </div>
+
+	
+	<div style="height: 10px"></div>
+
+</div>
+								</td></tr>
+								</table>      
+              </td>
+              <td></td>
+            </tr>
+          </table>
+      </td>
+    </tr>
+</table>
+				<table class="structure-main">
+      <tr>
+        <td>
+        <div style="background: #BAB89A; padding-top: 2px; margin-top: 24px"></div>
+					<div class="podval_text_container">
+					<div style="padding-top: 12px"></div>
+						<div class="about">
+						<table><tr><td>
+						<p>MedDaily – «МедДэйли» новости медицины // Проект объединенной редакции <a href="https://www.newsru.com">NEWSru.com</a> 
+		
+						</p>
+												<p>
+						Понедельник, 7 сентября 2020 г. // Последняя новость <a href="/article/04sep2020/namozgmollo">4 сентября 2020 г. 16:52</a>
+						</p>
+						</td>
+						</tr>
+</table>
+
+						<p>
+   Все права на материалы и новости, опубликованные на сайте «МедДэйли», охраняются в соответствии с законодательством РФ. Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал «МедДэйли», до или после цитируемого блока.
+</p>
+<a href="https://www.newsru.com/promo-price/">Pазмещение рекламы на сайте MedDaily.ru</a>
+<p>
+<a href="/feedback">Обратная связь</a> <span style="padding: 0px 4px">&nbsp;</span><a href="/rss">Подписка на новости (RSS)</a><br />
+<a href="/privacy">Политика конфиденциальности</a>
+</p>
+<p>© 2010-2020 <a href="/">MedDaily</a></p>
+						
+
+						</div>
+
+					</div>
+
+
+					
+					
+					<div class="podval_banners_container">		
+  <!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=1981515">
+<img src="//top-fwz1.mail.ru/counter?id=1981515;t=428;l=1" 
+style="border:0;" height="31" width="88" alt="Rating@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>                   
+											
+					</div>
+				</td>
+			</tr>
+</table>
+  
+
+		</td></tr></table>
+
+</td></tr></table>
+
+
+<!-- FE MC 1599430375 /favicon.ico--></body>
+</html>
+
+
